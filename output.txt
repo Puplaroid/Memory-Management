@@ -1,21 +1,21 @@
 Demonstrating stack growth:
-Stack address (layer 1): 000000E1A8FFFC0C
-Stack address (layer 2): 000000E1A8FFFBCC
+Stack address (layer 1): 00000026263FFD6C
+Stack address (layer 2): 00000026263FFD2C
 Stack is growing downward
-Stack address (layer 3): 000000E1A8FFFB8C
+Stack address (layer 3): 00000026263FFCEC
 Stack is growing downward
-Stack address (layer 4): 000000E1A8FFFB4C
+Stack address (layer 4): 00000026263FFCAC
 Stack is growing downward
-Stack address (layer 5): 000000E1A8FFFB0C
+Stack address (layer 5): 00000026263FFC6C
 Stack is growing downward
 
 Demonstrating heap growth:
-Heap address (layer 1): 000001E7F59AA590
-Heap address (layer 2): 000001E7F59AA5B0
+Heap address (layer 1): 000001FAECA5A590
+Heap address (layer 2): 000001FAECA5A5B0
 Heap is growing upward
-Heap address (layer 3): 000001E7F59AA5D0
+Heap address (layer 3): 000001FAECA5A5D0
 Heap is growing upward
-Heap address (layer 4): 000001E7F59A8050
+Heap address (layer 4): 000001FAECA58050
 Heap is growing downward
-Heap address (layer 5): 000001E7F59A8070
+Heap address (layer 5): 000001FAECA58070
 Heap is growing upward

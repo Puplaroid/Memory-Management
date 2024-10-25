@@ -36,11 +36,12 @@ void heap_grow(int *previous_address, int count, int max_depth) {
 }
 
 int main() {
+    int var_nums = 5;
     printf("Demonstrating stack growth:\n");
-    stack_grow(NULL, 1, 5);
+    stack_grow(NULL, 1, var_nums);
 
     printf("\nDemonstrating heap growth:\n");
-    heap_grow(NULL, 1, 5);
+    heap_grow(NULL, 1, var_nums);
 
     return 0;
 }
